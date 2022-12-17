@@ -1,2 +1,2 @@
-# If a cheat or hack gets patched i will update as soon as possible. 
-Classroom Cheats
+#Classroom Cheats
+Updates or patches will be anounced here
